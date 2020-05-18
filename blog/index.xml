@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Ángel Pachón Solana</title>
+    <link>https://apachon.github.io/blog/</link>
+    <description>Recent content in Blogs on Ángel Pachón Solana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 May 2020 17:54:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://apachon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This is a test</title>
+      <link>https://apachon.github.io/blog/this-is-a-test/</link>
+      <pubDate>Sun, 17 May 2020 17:54:51 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/this-is-a-test/</guid>
+      <description>Nothing to say at the moment.</description>
+    </item>
+    
+  </channel>
+</rss>
