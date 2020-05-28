@@ -12,12 +12,14 @@
     
     
     <item>
-      <title>This is a test</title>
-      <link>https://apachon.github.io/blog/this-is-a-test/</link>
+      <title>Coursera: Machine Learning by Stanford</title>
+      <link>https://apachon.github.io/blog/coursera-machine-learning-by-stanford/</link>
       <pubDate>Sun, 17 May 2020 17:54:51 +0200</pubDate>
       
-      <guid>https://apachon.github.io/blog/this-is-a-test/</guid>
-      <description>Nothing to say at the moment.</description>
+      <guid>https://apachon.github.io/blog/coursera-machine-learning-by-stanford/</guid>
+      <description>Primer paso dado, curso completado con una calificación obtenida del 97.3%. Me decidí por empezar con este curso por sus muchas referencias como uno de los mejores cursos online de Machine Learning. Y puedo decir que no defreuda, por contenido, plataforma y por su puesto por el instructor y creador del curso, Andrew Ng uno de los máximos referentes en el campo.
+Referencias al curso:
+ KDnuggets: 10 Best and Free Machine Learning Courses, Online Forbes: The 10 Best Free Online Artificial Intelligence And Machine Learning Courses For 2020 Business Insider: 13 popular online courses that people enroll in and actually finish, according to Coursera Data Science Rush: Top 10 Courses on Coursera in 2020  </description>
     </item>
     
   </channel>
