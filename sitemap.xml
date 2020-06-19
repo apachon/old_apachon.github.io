@@ -3,27 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://apachon.github.io/books/armas-de-destrucci%C3%B3n-matem%C3%A1tica/</loc>
-    <lastmod>2020-06-19T10:54:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://apachon.github.io/books/</loc>
-    <lastmod>2020-06-19T10:54:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://apachon.github.io/</loc>
-    <lastmod>2020-06-19T10:54:51+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://apachon.github.io/blog/</loc>
     <lastmod>2020-05-17T17:54:51+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://apachon.github.io/blog/coursera-machine-learning-by-stanford/</loc>
+    <lastmod>2020-05-17T17:54:51+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apachon.github.io/</loc>
     <lastmod>2020-05-17T17:54:51+02:00</lastmod>
   </url>
   
