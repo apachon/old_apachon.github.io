@@ -6,10 +6,19 @@
     <description>Recent content on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2020 13:58:57 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 10:54:51 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Armas de destrucción matemática</title>
+      <link>https://apachon.github.io/books/armas-de-destrucci%C3%B3n-matem%C3%A1tica/</link>
+      <pubDate>Fri, 19 Jun 2020 10:54:51 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/books/armas-de-destrucci%C3%B3n-matem%C3%A1tica/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Coursera: Machine Learning by Stanford</title>
@@ -17,17 +26,6 @@
       <pubDate>Sun, 17 May 2020 17:54:51 +0200</pubDate>
       
       <guid>https://apachon.github.io/blog/coursera-machine-learning-by-stanford/</guid>
-      <description>Primer paso dado, curso completado con una calificación obtenida del 97.3%. Me decidí por empezar con este curso por sus muchas referencias como uno de los mejores cursos online de Machine Learning. Y puedo decir que no defreuda, por contenido, plataforma y por su puesto por el instructor y creador del curso, Andrew Ng uno de los máximos referentes en el campo.
-Referencias al curso:
- KDnuggets: 10 Best and Free Machine Learning Courses, Online Forbes: The 10 Best Free Online Artificial Intelligence And Machine Learning Courses For 2020 Business Insider: 13 popular online courses that people enroll in and actually finish, according to Coursera Data Science Rush: Top 10 Courses on Coursera in 2020  </description>
-    </item>
-    
-    <item>
-      <title>Prueba</title>
-      <link>https://apachon.github.io/books/prueba-libro/</link>
-      <pubDate>Sun, 17 May 2020 17:54:51 +0200</pubDate>
-      
-      <guid>https://apachon.github.io/books/prueba-libro/</guid>
       <description>Primer paso dado, curso completado con una calificación obtenida del 97.3%. Me decidí por empezar con este curso por sus muchas referencias como uno de los mejores cursos online de Machine Learning. Y puedo decir que no defreuda, por contenido, plataforma y por su puesto por el instructor y creador del curso, Andrew Ng uno de los máximos referentes en el campo.
 Referencias al curso:
  KDnuggets: 10 Best and Free Machine Learning Courses, Online Forbes: The 10 Best Free Online Artificial Intelligence And Machine Learning Courses For 2020 Business Insider: 13 popular online courses that people enroll in and actually finish, according to Coursera Data Science Rush: Top 10 Courses on Coursera in 2020  </description>
