@@ -6,10 +6,19 @@
     <description>Recent content on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 17:54:51 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 16:21:43 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GPT-3 Language Models are Few-Shot Learners</title>
+      <link>https://apachon.github.io/blog/gpt-3-language-models-are-few-shot-learners/</link>
+      <pubDate>Mon, 06 Jul 2020 16:21:43 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/gpt-3-language-models-are-few-shot-learners/</guid>
+      <description>Link paper: Language Models are Few-Shot Learners. Youtube paper explained GPT-3: Language Models are Few-Shot Learners.   </description>
+    </item>
     
     <item>
       <title>Coursera: Machine Learning by Stanford</title>
