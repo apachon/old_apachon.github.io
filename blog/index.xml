@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2020 11:27:32 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 11:39:18 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book Deep Learning with PyTorch</title>
+      <link>https://apachon.github.io/blog/libro-deep-learning-with-pytorch/</link>
+      <pubDate>Tue, 07 Jul 2020 11:39:18 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/libro-deep-learning-with-pytorch/</guid>
+      <description>https://api.twitter.com/1/statuses/oembed.json?id=1280180078966530053</description>
+    </item>
     
     <item>
       <title>Lazy Predict</title>
