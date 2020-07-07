@@ -6,10 +6,20 @@
     <description>Recent content on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2020 11:27:32 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 11:39:18 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book Deep Learning with PyTorch</title>
+      <link>https://apachon.github.io/blog/libro-deep-learning-with-pytorch/</link>
+      <pubDate>Tue, 07 Jul 2020 11:39:18 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/libro-deep-learning-with-pytorch/</guid>
+      <description>The full version of the Deep Learning with PyTorch book from Luca Antiga, Eli Stevens, and Thomas Viehmann is now available! New chapters include in-depth real-world examples and production deployment. Grab a free digital copy on: https://t.co/RNUUKbAZTs
+&amp;mdash; PyTorch (@PyTorch) July 6, 2020  </description>
+    </item>
     
     <item>
       <title>Lazy Predict</title>
