@@ -6,10 +6,21 @@
     <description>Recent content on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2020 09:15:27 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2020 10:10:42 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Texthero</title>
+      <link>https://apachon.github.io/blog/20200709-texthero/</link>
+      <pubDate>Thu, 09 Jul 2020 10:10:42 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200709-texthero/</guid>
+      <description>Texthero is a python package to work with text data efficiently. It empowers NLP developers with a tool to quickly understand any text-based dataset and it provides a solid pipeline to clean and represent text data, from zero to hero.
+Links:
+ Texthero.org Try TextHero: The Absolute Simplest way to Clean and Analyze Text in Pandas  </description>
+    </item>
     
     <item>
       <title>Enterprise Adoption of AI by Pattern 2019-2025</title>
