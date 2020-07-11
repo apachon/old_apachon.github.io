@@ -6,10 +6,19 @@
     <description>Recent content on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2020 09:16:35 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2020 13:53:00 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Libro: Armas De Destrucción Matemática</title>
+      <link>https://apachon.github.io/blog/20200711-armas-de-destrucci%C3%B3n-matem%C3%A1tica/</link>
+      <pubDate>Sat, 11 Jul 2020 13:53:00 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200711-armas-de-destrucci%C3%B3n-matem%C3%A1tica/</guid>
+      <description>En la era del Gobierno Algorítmico y el Big Data ni a más datos mejores modelos para tomar decisiciones ni todos los datos (atributos sustitutivos) deben servir para tomar decisiones que nos reporten un beneficio ético y económico. Pasar del antiguo sesgo humano al sesgo de los modelos de apredizaje automático (o aprendizaje profundo en casos más sofisticados) es no avanzar, o por lo menos no avanzar éticamente. Cathy O&amp;rsquo;Neil nos expone los peligros que pueden suponer los modelos alimentados con datos erróneos y cómo nos condicionan el presente y el futuro cercano.</description>
+    </item>
     
     <item>
       <title>AutoGluon: AutoML Toolkit for Deep Learning</title>
@@ -70,15 +79,6 @@ Links:
       <guid>https://apachon.github.io/blog/20200706-gpt-3-language-models-are-few-shot-learners/</guid>
       <description>Link paper: Language Models are Few-Shot Learners.
 Vídeo explicativo del paper Language Models are Few-Shot Learners realizado por Yannic Kilcher   </description>
-    </item>
-    
-    <item>
-      <title>Libro: Armas De Destrucción Matemática</title>
-      <link>https://apachon.github.io/blog/20200711-armas-de-destrucci%C3%B3n-matem%C3%A1tica/</link>
-      <pubDate>Sat, 04 Jul 2020 17:53:00 +0200</pubDate>
-      
-      <guid>https://apachon.github.io/blog/20200711-armas-de-destrucci%C3%B3n-matem%C3%A1tica/</guid>
-      <description>En la era del Gobierno Algorítmico y el Big Data ni a más datos mejores modelos para tomar decisiciones ni todos los datos (atributos sustitutivos) deben servir para tomar decisiones que nos reporten un beneficio ético y económico. Pasar del antiguo sesgo humano al sesgo de los modelos de apredizaje automático (o aprendizaje profundo en casos más sofisticados) es no avanzar, o por lo menos no avanzar éticamente. Cathy O&amp;rsquo;Neil nos expone los peligros que pueden suponer los modelos alimentados con datos erróneos y cómo nos condicionan el presente y el futuro cercano.</description>
     </item>
     
     <item>
