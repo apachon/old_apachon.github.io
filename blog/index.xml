@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2020 13:33:19 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 13:10:31 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Machine Learning Toolbox</title>
+      <link>https://apachon.github.io/blog/20200713-amit-chaudhary-machine-learning-toolbox/</link>
+      <pubDate>Mon, 13 Jul 2020 13:10:31 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200713-amit-chaudhary-machine-learning-toolbox/</guid>
+      <description>Recopilación de bibliotecas útiles para trabajar con Machine Learning en cada una de sus fases. Link: Amit Chaudhary - Machine Learning Toolbox</description>
+    </item>
     
     <item>
       <title>Podcast Software 2.0: El declive de Europa en la era de la Inteligencia Artificial</title>
