@@ -6,10 +6,24 @@
     <description>Recent content in Blogs on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2020 18:15:47 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 20:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Condensed version of the Matplotlib cheatsheets</title>
+      <link>https://apachon.github.io/blog/20200715-condensed-version-of-the-matplotlib-cheatsheets/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200715-condensed-version-of-the-matplotlib-cheatsheets/</guid>
+      <description>Here&amp;#39;s a condensed version of the matplotlib cheatsheets so it can fit a desktop background
+(https://t.co/bYcq4xtSRP)
+Full image: https://t.co/Ira3t45G9x
+and vectorized .svg, with the non-standard fonts outlined: https://t.co/FGAwQfeWNN
+Thanks @NPRougier et al for making it! pic.twitter.com/NxS2U7NsMJ
+&amp;mdash; Miles Cranmer (@MilesCranmer) July 12, 2020  </description>
+    </item>
     
     <item>
       <title>Gradio</title>
