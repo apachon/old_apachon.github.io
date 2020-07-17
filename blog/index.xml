@@ -6,10 +6,29 @@
     <description>Recent content in Blogs on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2020 18:27:01 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2020 09:51:55 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comandos básicos de Conda</title>
+      <link>https://apachon.github.io/blog/20200717-comandos-conda/</link>
+      <pubDate>Fri, 17 Jul 2020 09:51:55 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200717-comandos-conda/</guid>
+      <description>Actualización de Conda.
+conda update condaVersión de Conda.
+conda -VActualización de Python.
+conda update pythonInstalación de Librería.
+conda install NombreLibreríaInstalación de librería que no está en Conda.
+pip install NombreLibreríaActualización de una librería.
+conda update NombreLibreríaCreación de entorno.
+conda create -n NombreEntornoActivación de entorno.
+conda activate NombreEntornoEliminación de un entorno.
+conda env remove -n NombreEntornoMás en:
+ Command Reference CONDA CHEAT SHEET  </description>
+    </item>
     
     <item>
       <title>Jason Mayes - Machine Learning 101</title>
