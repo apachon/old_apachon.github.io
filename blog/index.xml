@@ -35,8 +35,8 @@ pip install NombreLibreríaActualización de una librería.
 conda update NombreLibreríaCreación de entorno.
 conda create -n NombreEntornoActivación de entorno.
 conda activate NombreEntornoEliminación de un entorno.
-conda env remove -n NombreEntornoMás en:
- Command Reference CONDA CHEAT SHEET  </description>
+conda env remove -n NombreEntornoListado de librerías de un entorno.
+conda list -n NombreEntornoMás en:</description>
     </item>
     
     <item>
