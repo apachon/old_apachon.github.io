@@ -6,10 +6,19 @@
     <description>Recent content on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2020 09:51:55 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2020 21:53:42 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Forbes: A conversation with Andrew Ng</title>
+      <link>https://apachon.github.io/blog/20200718-forbes-a-conversation-with-andrew-ng/</link>
+      <pubDate>Sat, 18 Jul 2020 21:53:42 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200718-forbes-a-conversation-with-andrew-ng/</guid>
+      <description>Link: Solving the small data problem and other challenges with AI a conversation with Andrew Ng.</description>
+    </item>
     
     <item>
       <title>Comandos básicos de Conda</title>
