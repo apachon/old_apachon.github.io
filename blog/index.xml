@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2020 15:51:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2020 11:51:47 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Certificación SAP Fiori Overview: Design, Develop and Deploy</title>
+      <link>https://apachon.github.io/blog/sap-fiori-overview-design-develop-and-deploy/</link>
+      <pubDate>Mon, 20 Jul 2020 11:51:47 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/sap-fiori-overview-design-develop-and-deploy/</guid>
+      <description>Certificación del curso OpenSAP SAP Fiori Overview: Design, Develop and Deploy.</description>
+    </item>
     
     <item>
       <title>Instalación de RASA Open source conversational AI en Windows 10</title>
