@@ -6,10 +6,21 @@
     <description>Recent content on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2020 11:51:47 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2020 16:07:18 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Una Introducción Visual al Machine Learning</title>
+      <link>https://apachon.github.io/blog/20200721-una-introducci%C3%B3n-visual-al-machine-learning/</link>
+      <pubDate>Tue, 21 Jul 2020 16:07:18 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200721-una-introducci%C3%B3n-visual-al-machine-learning/</guid>
+      <description>Excelentes documentos que explican visualmente conceptos del Aprendizaje Automático.
+  Parte 1: Recorrido visual de lo que sería un ejercicio de clasificación con Machine Learning con un árbol de decisión.Link: A Decision Tree
+==En Machine learning (o aprendizaje de máquina), los computadores aplican técnicas de aprendizaje estadístico para identificar patrones en los datos de manera automática. Estas técnicas pueden ser utilizadas para hace predicciones con una alta precisión.==</description>
+    </item>
     
     <item>
       <title>Certificación SAP Fiori Overview: Design, Develop and Deploy</title>
