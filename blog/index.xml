@@ -6,10 +6,31 @@
     <description>Recent content in Blogs on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2020 16:07:18 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2020 17:01:27 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TensorFlow 2.0 &#43; Keras overview</title>
+      <link>https://apachon.github.io/blog/tensorflow-2.0-&#43;-keras-overview/</link>
+      <pubDate>Wed, 22 Jul 2020 17:01:27 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/tensorflow-2.0-&#43;-keras-overview/</guid>
+      <description>Cuaderno de Colab con una introducción de TensorFlow 2.0 + Keras, por @fchollet creador de Keras.
+I just wrote an extensive TensorFlow 2.0 + Keras overview, targeted at deep learning researchers: https://t.co/k694J95PI8
+Hope you will find it useful! Let me know if you have any feedback.
+&amp;mdash; François Chollet (@fchollet) October 5, 2019  </description>
+    </item>
+    
+    <item>
+      <title>Lex Fridman: Neural networks learning spirals</title>
+      <link>https://apachon.github.io/blog/20200722-lex-fridman-neural-networks-learning-spirals/</link>
+      <pubDate>Wed, 22 Jul 2020 15:22:07 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200722-lex-fridman-neural-networks-learning-spirals/</guid>
+      <description>   </description>
+    </item>
     
     <item>
       <title>Una Introducción Visual al Machine Learning</title>
