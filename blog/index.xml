@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2020 11:43:27 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2020 21:55:42 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pycaret</title>
+      <link>https://apachon.github.io/blog/20200724-pycaret/</link>
+      <pubDate>Fri, 24 Jul 2020 21:55:42 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200724-pycaret/</guid>
+      <description>PyCaret is an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within seconds in your choice of notebook environment. Link: PyCaret.org/</description>
+    </item>
     
     <item>
       <title>TensorFlow 2.0 &#43; Keras overview</title>
@@ -68,15 +77,6 @@ Hope you will find it useful! Let me know if you have any feedback.
       
       <guid>https://apachon.github.io/blog/20200718-forbes-a-conversation-with-andrew-ng/</guid>
       <description>Link: Solving the small data problem and other challenges with AI a conversation with Andrew Ng.</description>
-    </item>
-    
-    <item>
-      <title>Pycaret</title>
-      <link>https://apachon.github.io/blog/20200724-pycaret/</link>
-      <pubDate>Fri, 17 Jul 2020 18:43:42 +0200</pubDate>
-      
-      <guid>https://apachon.github.io/blog/20200724-pycaret/</guid>
-      <description>PyCaret is an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within seconds in your choice of notebook environment. Link: PyCaret.org/</description>
     </item>
     
     <item>
