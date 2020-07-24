@@ -71,6 +71,15 @@ Hope you will find it useful! Let me know if you have any feedback.
     </item>
     
     <item>
+      <title>Pycaret</title>
+      <link>https://apachon.github.io/blog/20200724-pycaret/</link>
+      <pubDate>Fri, 17 Jul 2020 18:43:42 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200724-pycaret/</guid>
+      <description>PyCaret is an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within seconds in your choice of notebook environment. Link: PyCaret.org/</description>
+    </item>
+    
+    <item>
       <title>Comandos básicos de Conda</title>
       <link>https://apachon.github.io/blog/20200717-comandos-conda/</link>
       <pubDate>Fri, 17 Jul 2020 09:51:55 +0200</pubDate>
