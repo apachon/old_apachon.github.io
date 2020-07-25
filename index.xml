@@ -6,10 +6,20 @@
     <description>Recent content on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2020 21:55:42 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2020 21:59:51 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stock Market Forecasting Using Time Series Analysis</title>
+      <link>https://apachon.github.io/blog/20200725-stock-market-forecasting-using-time-series-analysis/</link>
+      <pubDate>Sat, 25 Jul 2020 21:59:51 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200725-stock-market-forecasting-using-time-series-analysis/</guid>
+      <description>Ejemplo muy didáctico que predice el precio de acciones al cierre mediante la técnica Análisis de Series Temporales (Time Serie Analysis). Link: Stock Market Forecasting Using Time Series Analysis
+Como en dataset no se encuentra disponible en el link original pongo enlace a repositorio de github donde se encuentra.</description>
+    </item>
     
     <item>
       <title>PyCaret</title>
