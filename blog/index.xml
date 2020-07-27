@@ -6,10 +6,20 @@
     <description>Recent content in Blogs on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2020 21:59:51 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2020 23:20:24 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KDnuggets: Text Mining in Python Steps and Examples</title>
+      <link>https://apachon.github.io/blog/20200726-kdnuggets-text-mining-in-python-steps-and-examples/</link>
+      <pubDate>Sun, 26 Jul 2020 23:20:24 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200726-kdnuggets-text-mining-in-python-steps-and-examples/</guid>
+      <description>Artículo con ejemplos secillos de como realizar minería de textos en python con la librería nltk, se incluyen ejemplos de:
+ Tokenization Finding frequency distinct in the text Stemming Lemmatization Stop Words Part of speech tagging (POS) Named entity recognition Chunking  GitHub: KDnuggerts: Text Mining in Python: Steps and Examples</description>
+    </item>
     
     <item>
       <title>Stock Market Forecasting Using Time Series Analysis</title>
