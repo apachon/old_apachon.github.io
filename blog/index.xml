@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2020 23:20:24 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2020 21:48:14 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Learning aplicado a procesamiento de lenguaje natural NLP - Juan Lupión y Jesús Montes</title>
+      <link>https://apachon.github.io/blog/20200727-deep-learning-aplicado-a-procesamiento-de-lenguaje-natural-nlp/</link>
+      <pubDate>Mon, 27 Jul 2020 21:48:14 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200727-deep-learning-aplicado-a-procesamiento-de-lenguaje-natural-nlp/</guid>
+      <description>   </description>
+    </item>
     
     <item>
       <title>KDnuggets: Text Mining in Python Steps and Examples</title>
@@ -17,8 +26,16 @@
       <pubDate>Sun, 26 Jul 2020 23:20:24 +0200</pubDate>
       
       <guid>https://apachon.github.io/blog/20200726-kdnuggets-text-mining-in-python-steps-and-examples/</guid>
-      <description>Artículo con ejemplos secillos de como realizar minería de textos en python con la librería nltk, se incluyen ejemplos de:
- Tokenization Finding frequency distinct in the text Stemming Lemmatization Stop Words Part of speech tagging (POS) Named entity recognition Chunking  GitHub: KDnuggerts: Text Mining in Python: Steps and Examples</description>
+      <description>Artículo con ejemplos sencillos de como realizar minería de textos en python con la librería nltk, se incluyen ejemplos de:
+  Tokenization
+  Finding frequency distinct in the text
+  Stemming
+  Lemmatization
+  Stop Words
+  Part of speech tagging (POS)
+  Named entity recognition
+  Chunking
+  GitHub: KDnuggerts: Text Mining in Python: Steps and Examples</description>
     </item>
     
     <item>
