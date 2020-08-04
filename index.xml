@@ -6,10 +6,20 @@
     <description>Recent content on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2020 19:13:14 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 15:17:11 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pérdida de tiempo</title>
+      <link>https://apachon.github.io/blog/20200804-total-waste-of-time/</link>
+      <pubDate>Tue, 04 Aug 2020 15:17:11 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200804-total-waste-of-time/</guid>
+      <description>Se habla mucho de cambiar el modelo productivo de un país, sobre todo en épocas de crisis como en la que nos encontramos. Y siempre la transición deseada es la investigación, pero incluso en los campos más punteros no siempre investigación e creación de valor van de la mano.
+Teniendo en cuenta quien dice en el siguinete vídeo veo reforzada mi opinión. La idea siempre debe ser: resolver problemas reales y rápido.</description>
+    </item>
     
     <item>
       <title>Play fast.ai</title>
