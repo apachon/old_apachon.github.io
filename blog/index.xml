@@ -6,10 +6,20 @@
     <description>Recent content in Blogs on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2020 15:51:37 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2020 09:05:33 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pneumonia Detection usando Deep Learning</title>
+      <link>https://apachon.github.io/blog/20200818-pneumonia-detection-usando-deep-learning/</link>
+      <pubDate>Tue, 18 Aug 2020 09:05:33 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200818-pneumonia-detection-usando-deep-learning/</guid>
+      <description>Primer proyecto trasteando con fast.ai. La app Chest X-Ray Images es capaz de clasificar una radiografía de torax detectando si la radiografía es NORMAL o se detecta PNEUMONIA, no se valida que la imagen subida sea una radiografia o no porque el cometido no era aprender a crear una web en Python.
+Para entrenar y validar el modelo se ha usado el dataset de Kaggle Chest X-Ray Images (Pneumonia) [1].</description>
+    </item>
     
     <item>
       <title>The entire dataset of 1.7M&#43; arXiv papers is now available on @Kaggle</title>
