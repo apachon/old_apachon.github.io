@@ -22,8 +22,7 @@
   Instalación de la librería KERAS con sus dependencias. conda install keras
   Instalación de la librería MTCNN pip install mtcnn
   Se crean las pruebas alojadas en el siguiente repositorio.
-Detección de caras. (Caras)
-Detección de caras remarcando ojos, nariz y boca. (Ojos, nariz y boca)</description>
+Detección de caras. Detección de caras remarcando ojos, nariz y boca. Extracción de caras.   </description>
     </item>
     
     <item>
