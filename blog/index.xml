@@ -6,10 +6,25 @@
     <description>Recent content in Blogs on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2020 09:05:33 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2020 14:20:28 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MTCNN - Face Detection With Deep Learning</title>
+      <link>https://apachon.github.io/blog/20200819-mtcnn-face-detection-with-deep-learning/</link>
+      <pubDate>Wed, 19 Aug 2020 14:20:28 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200819-mtcnn-face-detection-with-deep-learning/</guid>
+      <description>Enlace al documento original en machinelearningmastery.com
+  Creación de un entorno nuevo en Anaconda face-detection con la version 3.7 de Python.
+  Instalación de la librería KERAS con sus dependencias. conda install keras
+  Instalación de la librería MTCNN pip install mtcnn
+  Se crean las pruebas alojadas en el siguiente repositorio.
+Detección de caras. (Caras)
+Detección de caras remarcando ojos, nariz y boca. (Ojos, nariz y boca)</description>
+    </item>
     
     <item>
       <title>Pneumonia Detection usando Deep Learning</title>
