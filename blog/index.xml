@@ -6,10 +6,20 @@
     <description>Recent content in Blogs on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2020 07:27:05 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 17:02:18 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>fastai v2</title>
+      <link>https://apachon.github.io/blog/20200907-fastai-v2/</link>
+      <pubDate>Mon, 07 Sep 2020 17:02:18 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200907-fastai-v2/</guid>
+      <description>Los dos cometidos y ejes principales de fastai según lo que he entendido de las clase de Jeremy Howard son:
+ Ser accesible y rápidamente productivo. Ser profundamente flexible.  Todo bajo lo más importante, que es acercar y hacer accesible el Deep Learning al &amp;ldquo;público general&amp;rdquo;, desmitificando y haciendo más accesible el aprendizaje con su modelo top-down incluso para personas que no tienen grandes conocimientos técnicos. La versión 2 de fastai escrita desde cero está construida sobre una jerarquía de APIs de nivel inferior que proporcionan bloques de construcción modular, de esta manera para extender o mejorar algo de una capa te abstraes de las capas inferiores.</description>
+    </item>
     
     <item>
       <title>MTCNN - Face Detection With Deep Learning (2)</title>
