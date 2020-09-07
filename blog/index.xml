@@ -41,8 +41,8 @@ Detección de caras. Detección de caras remarcando ojos, nariz y boca. Extracci
       <pubDate>Tue, 18 Aug 2020 09:05:33 +0200</pubDate>
       
       <guid>https://apachon.github.io/blog/20200818-pneumonia-detection-usando-deep-learning/</guid>
-      <description>==Actualización 04/09/2020: He deshabilitado la app para no tener sorpresas con la facturación de GCP, ya que se me estaban acabando los créditos de prueba y no quería tener sorpresas con la facturación y no tenía claro como se activaba la versión gratuita para siempre y si ésta mantenía en uso la app. ==
-Primer proyecto trasteando con fast.ai. La app [Chest X-Ray Images](https://aps-pneumonia-detection.nw.r.appspot.com/) es capaz de clasificar una radiografía de torax detectando si la radiografía es NORMAL o se detecta PNEUMONIA, no se valida que la imagen subida sea una radiografia o no porque el cometido no era aprender a crear una web en Python.</description>
+      <description>Actualización 04/09/2020: He deshabilitado la app para no tener sorpresas con la facturación de GCP, ya que se me estaban acabando los créditos de prueba y no quería tener sorpresas con la facturación y no tenía claro como se activaba la versión gratuita para siempre y si ésta mantenía en uso la app.
+ Primer proyecto trasteando con fast.ai. La app [Chest X-Ray Images](https://aps-pneumonia-detection.nw.r.appspot.com/) es capaz de clasificar una radiografía de torax detectando si la radiografía es NORMAL o se detecta PNEUMONIA, no se valida que la imagen subida sea una radiografia o no porque el cometido no era aprender a crear una web en Python.</description>
     </item>
     
     <item>
