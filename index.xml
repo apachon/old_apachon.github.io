@@ -6,10 +6,19 @@
     <description>Recent content on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2020 15:02:18 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2020 16:18:26 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Baseline en proyectos de Machine Learning</title>
+      <link>https://apachon.github.io/blog/20200914-baseline-en-proyectos-de-machine-learning/</link>
+      <pubDate>Mon, 14 Sep 2020 16:18:26 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200914-baseline-en-proyectos-de-machine-learning/</guid>
+      <description>Antes de implementar nuestros modelos complejos es de gran utilidad crear un prototipo sencillo que de solución al problema de manera sencilla, esto servirá para comprobar que nuestro problema tiene solución y también servirá para comprobar la precisión de nuestros modelos complejos frente a la solución rápida del prototipo creado al comienzo. Este prototipo debe ser un punto de partida significativo por lo que se debe desempeñar razonablemente bien si lo queremos usar para comparar los modelos que van a venir después.</description>
+    </item>
     
     <item>
       <title>fastai v2</title>
