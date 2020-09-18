@@ -6,10 +6,21 @@
     <description>Recent content in Blogs on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2020 16:18:26 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2020 18:41:11 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Broadcasting (Transmisión) en PyTorch</title>
+      <link>https://apachon.github.io/blog/20200918-broadcasting-transmisi%C3%B3n-en-pytorch/</link>
+      <pubDate>Fri, 18 Sep 2020 18:41:11 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200918-broadcasting-transmisi%C3%B3n-en-pytorch/</guid>
+      <description>De la Lesson 3 del curso Practical Deep Learning for Coders (2020).
+Imaginemos que tenemos la siguiente función que devuelve la resta de los dos parámetros a y b en valor absoluto y devuelve la media (de los dos últimos ejes).
+def mnist_distance(a,b): return (a-b).abs().mean((-1,-2))mnist_distance(a_3, mean3)out: tensor(0.1114)En el caso que se trata a y b son tensores tienen rangos diferentes a es un tensor de rango 3, por ejemplo 1010 x 28 x 28 y b es un tensor de 28 x 28.</description>
+    </item>
     
     <item>
       <title>Baseline en proyectos de Machine Learning</title>
