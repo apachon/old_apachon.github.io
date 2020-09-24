@@ -17,7 +17,7 @@
       <pubDate>Thu, 24 Sep 2020 10:18:52 +0200</pubDate>
       
       <guid>https://apachon.github.io/blog/20200924-get_week_info_based_on_date-obtener-informaci%C3%B3n-de-una-semana-en-abap/</guid>
-      <description>Módulo de funciones que a patir de una fercha retorna el número de semana del año y el preimer días de la semana (Lunes) y el último día de la misma (Domingo).
+      <description>Módulo de funciones que a partir de una fecha de entrada (date) nos retorna el número de semana (week), el primer día de la semana (monday) y el último día de la misma (sunday).
  CALL FUNCTION &#39;GET_WEEK_INFO_BASED_ON_DATE&#39;EXPORTINGdate = lv_hoyIMPORTINGweek = lv_nweekmonday = c_date_inisunday = c_date_fin.</description>
     </item>
     
