@@ -6,10 +6,20 @@
     <description>Recent content on Ángel Pachón Solana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2020 18:41:11 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2020 10:18:52 +0200</lastBuildDate>
     
 	<atom:link href="https://apachon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GET_WEEK_INFO_BASED_ON_DATE: Obtener información de una semana en ABAP</title>
+      <link>https://apachon.github.io/blog/20200924-get_week_info_based_on_date-obtener-informaci%C3%B3n-de-una-semana-en-abap/</link>
+      <pubDate>Thu, 24 Sep 2020 10:18:52 +0200</pubDate>
+      
+      <guid>https://apachon.github.io/blog/20200924-get_week_info_based_on_date-obtener-informaci%C3%B3n-de-una-semana-en-abap/</guid>
+      <description>Módulo de funciones que a patir de una fercha retorna el número de semana del año y el preimer días de la semana (Lunes) y el último día de la misma (Domingo).
+ CALL FUNCTION &#39;GET_WEEK_INFO_BASED_ON_DATE&#39;EXPORTINGdate = lv_hoyIMPORTINGweek = lv_nweekmonday = c_date_inisunday = c_date_fin.</description>
+    </item>
     
     <item>
       <title>Broadcasting (Transmisión) en PyTorch</title>
